@@ -1,0 +1,2 @@
+mpd #Music player daemon
+alsa #Sound driver, toquetear /etc/asound.conf
